@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ケイサツ来るまで踊りまくれ",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T19:12:57.491449Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ケイサツ来るまで踊りまくれ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/01_ケイサツ来るまで踊りまくれ_サンボマスター.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ケイサツ来るまで踊りまくれ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_ケイサツ来るまで踊りまくれ_サンボマスター.txt"
+    }
+  ]
+}
